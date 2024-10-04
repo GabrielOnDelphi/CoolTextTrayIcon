@@ -6,7 +6,7 @@
 __________
 
 
-*Improvements*
+*Improvements*  
 This version includes the following improvements:  
  * removed all Delphi 6 (or older) crap  
  * removed the inc file  
