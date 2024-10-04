@@ -1,10 +1,11 @@
-# CoolTextTrayIcon
+# CoolTextTrayIcon  
+
+*Description*  
  Minimize your app to the notification area (aka "tray icon") or to the task bar (standard) with only two commands:
   * procedure TCoolTrayIcon.PutIconOnlyInTask;
   * procedure TCoolTrayIcon.PutIconOnlyInTray;
 
 __________
-
 
 *Improvements*  
 This version includes the following improvements:  
@@ -22,9 +23,10 @@ This version includes the following improvements:
 
 *Road map*  
   I will try to make the code 64-bit compatible one day.  
+  Star it to encourage updates.  
 
 *Source*  
-This is a clone of https://github.com/coolshou/CoolTrayIcon  
-Original code included into the package (for reference).  
+  This is a clone of https://github.com/coolshou/CoolTrayIcon.  
+  Original code included into the package (for reference).  
 
 
