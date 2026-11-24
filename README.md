@@ -1,5 +1,18 @@
 # CoolTextTrayIcon  
 
+__________
+
+## This repository has moved
+
+CoolTrayIcon, TextTrayIcon and SimpleTimer now live inside the LightSaber library, folder `External/TrayIcon`:
+https://github.com/GabrielOnDelphi/Delphi-LightSaber/tree/main/External/TrayIcon
+
+This repository is archived and gets no more updates.
+
+
+
+__________
+
 *Description*  
  Minimize your app to the notification area (aka "tray icon") or to the task bar (standard) with only two commands:
   * procedure TCoolTrayIcon.PutIconOnlyInTask;
